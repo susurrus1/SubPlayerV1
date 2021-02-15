@@ -15,7 +15,7 @@ numpy
 matplotlib
 time
 
-All of these should install normally using the "pip install" command, with the possible exception of speech_recognition, which also requires PyAudio to be installed.  If the command
+All of these should install normally using the "pip install" command, with the possible exception of speech_recognition (or SpeechRecognition), which also requires PyAudio to be installed.  If the command
 
 pip install PyAudio
 
